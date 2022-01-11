@@ -1,0 +1,14 @@
+﻿  Game.cpp
+c:\lost v2.21\igraphics project\objects.h(674): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.21\igraphics project\objects.h(737): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.21\igraphics project\objects.h(788): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.21\igraphics project\playerphysics.h(141): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.21\igraphics project\playerphysics.h(156): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.21\igraphics project\playerphysics.h(229): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.21\igraphics project\playerphysics.h(247): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.21\igraphics project\playerphysics.h(266): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.21\igraphics project\playerphysics.h(268): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.21\igraphics project\playerphysics.h(289): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.21\igraphics project\playerphysics.h(337): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.21\igraphics project\playerphysics.h(360): warning C4018: '<' : signed/unsigned mismatch
+  iGraphics Project.vcxproj -> C:\Lost v2.21\Debug\Lost.exe

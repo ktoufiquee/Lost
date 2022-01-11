@@ -1,0 +1,16 @@
+﻿  Game.cpp
+c:\lost v2.29\lost\objects.h(674): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.29\lost\objects.h(736): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.29\lost\objects.h(792): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.29\lost\playerphysics.h(139): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.29\lost\playerphysics.h(157): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.29\lost\playerphysics.h(237): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.29\lost\playerphysics.h(255): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.29\lost\playerphysics.h(274): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.29\lost\playerphysics.h(276): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.29\lost\playerphysics.h(297): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.29\lost\playerphysics.h(351): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.29\lost\playerphysics.h(374): warning C4018: '<' : signed/unsigned mismatch
+c:\lost v2.29\lost\gamemanager.h(166): warning C4018: '>' : signed/unsigned mismatch
+  LINK : C:\Lost v2.29\Debug\Lost.exe not found or not built by the last incremental link; performing full link
+  Lost.vcxproj -> C:\Lost v2.29\Debug\Lost.exe
